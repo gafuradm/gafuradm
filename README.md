@@ -29,8 +29,6 @@
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=gafuradm&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gafuradm)](https://github.com/anuraghazra/github-readme-stats)
-
 <h3>Trophies</h3>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
