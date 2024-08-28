@@ -36,3 +36,8 @@
 <h3>Random Quote</h3>
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
+
+<h3>Random Joke</h3>
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
+<
