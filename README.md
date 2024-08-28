@@ -2,7 +2,7 @@
 
 ## 👋 Hi there!, 🦾 I'm Damiruly Gafur - 🧑‍💻 @gafuradm
 
-![](https://komarev.com/ghpvc/?username=gafuradm&color=red)
+![](https://komarev.com/ghpvc/?username=gafuradm&color=blueviolet)
 
 <h3>When I code, I rely on</h3>
 <p>
@@ -36,7 +36,3 @@
 <h3>Random Quote</h3>
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
-
-<h3>Random Joke</h3>
-
-![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=cobalt&qColor=%151515&aColor=%23bbdb51)
