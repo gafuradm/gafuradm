@@ -29,11 +29,12 @@
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=gafuradm&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gafuradm&theme=nightfox&hide_border=true&border_radius=1)](https://git.io/streak-stats)
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gafuradm)](https://github.com/anuraghazra/github-readme-stats)
 
-<h4>Random Quote</h4>
+<h3>Trophies</h3>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+<h3>Random Quote</h3>
+
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
