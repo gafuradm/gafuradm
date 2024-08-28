@@ -34,3 +34,6 @@
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gafuradm&theme=nightfox&hide_border=true&border_radius=1)](https://git.io/streak-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=gafuradm)](https://github.com/anuraghazra/github-readme-stats)
+
+<h4>Random Quote</h4>
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
