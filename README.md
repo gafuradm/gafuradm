@@ -39,5 +39,4 @@
 
 <h3>Random Joke</h3>
 
-![Jokes Card](https://readme-jokes.vercel.app/api)
-<
+![Jokes Card](https://readme-jokes.vercel.app/api?hideBorder&theme=cobalt&qColor=%151515&aColor=%23bbdb51)
