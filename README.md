@@ -2,8 +2,6 @@
 
 ## 👋 Hi there!, 🦾 I'm Damiruly Gafur - 🧑‍💻 @gafuradm
 
-![](https://komarev.com/ghpvc/?username=gafuradm&color=blueviolet)
-
 <h3>When I code, I rely on</h3>
 <p>
   <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
@@ -24,14 +22,6 @@
 
 <p>If you think I deserve a little pick-me-up, why not treat me to a cup of coffee/tea? 🥺</p>
 <a href="https://buymeacoffee.com/gafuradm" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Support Me" width="150" ></a>
-
-<h3>My GitHub contributions summary</h3>
-
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=gafuradm&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
-
-<h3>Trophies</h3>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h3>Random Quote</h3>
 
